@@ -1,24 +1,8 @@
-# fifteen-timer
+# test-timer
 
-## Project setup
-```
-npm install
-```
+This is a timer for indicating when to move to the next question on a timed test.
+Created for an aptitude test.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[Test Timer Website](https://test-timer.surge.sh/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> https://test-timer.surge.sh/
